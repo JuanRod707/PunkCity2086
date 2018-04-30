@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 0c36b8c39791d734383871b4dcecce10
+timeCreated: 1509559165
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: block_default_41
+    100002: //RootNode
+    100004: cylinder_hollow_50
+    100006: detail_airLarge_60
+    100008: detail_airSmall_49
+    100010: detail_solarPanel_40
+    100012: detail_stairs_52
+    100014: detail_stairs_57
+    100016: road_block_27
+    100018: road_block_28
+    100020: road_block_36
+    100022: roof_corner_29
+    100024: roof_corner_30
+    100026: roof_helipad_31
+    100028: roof_helipad_51
+    100030: roof_side_32
+    100032: roof_side_33
+    100034: roof_side_55
+    100036: roof_side_56
+    100038: roof_window_53
+    100040: roof_windowGlass%_45
+    100042: roof_windowGlass%_47
+    100044: wall_overhang_58
+    100046: wall_overhang_59
+    400000: block_default_41
+    400002: //RootNode
+    400004: cylinder_hollow_50
+    400006: detail_airLarge_60
+    400008: detail_airSmall_49
+    400010: detail_solarPanel_40
+    400012: detail_stairs_52
+    400014: detail_stairs_57
+    400016: road_block_27
+    400018: road_block_28
+    400020: road_block_36
+    400022: roof_corner_29
+    400024: roof_corner_30
+    400026: roof_helipad_31
+    400028: roof_helipad_51
+    400030: roof_side_32
+    400032: roof_side_33
+    400034: roof_side_55
+    400036: roof_side_56
+    400038: roof_window_53
+    400040: roof_windowGlass%_45
+    400042: roof_windowGlass%_47
+    400044: wall_overhang_58
+    400046: wall_overhang_59
+    2300000: block_default_41
+    2300002: cylinder_hollow_50
+    2300004: detail_airLarge_60
+    2300006: detail_airSmall_49
+    2300008: detail_solarPanel_40
+    2300010: detail_stairs_52
+    2300012: detail_stairs_57
+    2300014: road_block_27
+    2300016: road_block_28
+    2300018: road_block_36
+    2300020: roof_corner_29
+    2300022: roof_corner_30
+    2300024: roof_helipad_31
+    2300026: roof_helipad_51
+    2300028: roof_side_32
+    2300030: roof_side_33
+    2300032: roof_side_55
+    2300034: roof_side_56
+    2300036: roof_window_53
+    2300038: roof_windowGlass%_45
+    2300040: roof_windowGlass%_47
+    2300042: wall_overhang_58
+    2300044: wall_overhang_59
+    3300000: block_default_41
+    3300002: cylinder_hollow_50
+    3300004: detail_airLarge_60
+    3300006: detail_airSmall_49
+    3300008: detail_solarPanel_40
+    3300010: detail_stairs_52
+    3300012: detail_stairs_57
+    3300014: road_block_27
+    3300016: road_block_28
+    3300018: road_block_36
+    3300020: roof_corner_29
+    3300022: roof_corner_30
+    3300024: roof_helipad_31
+    3300026: roof_helipad_51
+    3300028: roof_side_32
+    3300030: roof_side_33
+    3300032: roof_side_55
+    3300034: roof_side_56
+    3300036: roof_window_53
+    3300038: roof_windowGlass%_45
+    3300040: roof_windowGlass%_47
+    3300042: wall_overhang_58
+    3300044: wall_overhang_59
+    4300000: road_block_27
+    4300002: road_block_28
+    4300004: roof_corner_29
+    4300006: roof_corner_30
+    4300008: roof_helipad_31
+    4300010: roof_side_32
+    4300012: roof_side_33
+    4300014: road_block_36
+    4300016: detail_solarPanel_40
+    4300018: block_default_41
+    4300020: roof_windowGlass%_45
+    4300022: roof_windowGlass%_47
+    4300024: detail_airSmall_49
+    4300026: cylinder_hollow_50
+    4300028: roof_helipad_51
+    4300030: detail_stairs_52
+    4300032: roof_window_53
+    4300034: roof_side_55
+    4300036: roof_side_56
+    4300038: detail_stairs_57
+    4300040: wall_overhang_58
+    4300042: wall_overhang_59
+    4300044: detail_airLarge_60
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 3c3283a768462174b83d6da0dc8d8ee5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: darkStone
+    second: {fileID: 2100000, guid: b58d327bc88d60a4d8838a2cafce38c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: a333e7bbb29d6fc4a896cdf3c349b09d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightStone
+    second: {fileID: 2100000, guid: 3a60bbff79b33014fae1662bcff19dad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: satellite
+    second: {fileID: 2100000, guid: 3fa6b24ddcc3c9a4cb09aca820bc7839, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stone
+    second: {fileID: 2100000, guid: d79325306bb4a004abdad2149208fbe7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

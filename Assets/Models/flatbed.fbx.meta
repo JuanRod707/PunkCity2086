@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: acd0d62492acb2a4e98a66b0c65869ce
+timeCreated: 1509805892
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: block_rounded_4
+    100002: block_rounded_5
+    100004: block_rounded_6
+    100006: detail_rollbar_2
+    100008: detail_rollbar_3
+    100010: detail_roofRails%_8
+    100012: engine_high_7
+    100014: engine_high_8
+    100016: //RootNode
+    100018: hood_default_0
+    100020: trunk_bed_0
+    100022: trunk_sports%_3
+    100024: trunk_sports%_4
+    100026: windshield_default_1
+    400000: block_rounded_4
+    400002: block_rounded_5
+    400004: block_rounded_6
+    400006: detail_rollbar_2
+    400008: detail_rollbar_3
+    400010: detail_roofRails%_8
+    400012: engine_high_7
+    400014: engine_high_8
+    400016: //RootNode
+    400018: hood_default_0
+    400020: trunk_bed_0
+    400022: trunk_sports%_3
+    400024: trunk_sports%_4
+    400026: windshield_default_1
+    2300000: block_rounded_4
+    2300002: block_rounded_5
+    2300004: block_rounded_6
+    2300006: detail_rollbar_2
+    2300008: detail_rollbar_3
+    2300010: detail_roofRails%_8
+    2300012: engine_high_7
+    2300014: engine_high_8
+    2300016: hood_default_0
+    2300018: trunk_bed_0
+    2300020: trunk_sports%_3
+    2300022: trunk_sports%_4
+    2300024: windshield_default_1
+    3300000: block_rounded_4
+    3300002: block_rounded_5
+    3300004: block_rounded_6
+    3300006: detail_rollbar_2
+    3300008: detail_rollbar_3
+    3300010: detail_roofRails%_8
+    3300012: engine_high_7
+    3300014: engine_high_8
+    3300016: hood_default_0
+    3300018: trunk_bed_0
+    3300020: trunk_sports%_3
+    3300022: trunk_sports%_4
+    3300024: windshield_default_1
+    4300000: hood_default_0
+    4300002: windshield_default_1
+    4300004: trunk_sports%_3
+    4300006: trunk_sports%_4
+    4300008: engine_high_7
+    4300010: engine_high_8
+    4300012: trunk_bed_0
+    4300014: detail_rollbar_2
+    4300016: detail_rollbar_3
+    4300018: block_rounded_4
+    4300020: block_rounded_5
+    4300022: block_rounded_6
+    4300024: detail_roofRails%_8
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 3c3283a768462174b83d6da0dc8d8ee5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 8fb4bd49fce7ae4429bf098739a128d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blueSteel
+    second: {fileID: 2100000, guid: ee61bad42324a4f40a73d1552e1ef661, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: customMaterial7
+    second: {fileID: 2100000, guid: ceb94e2eaaa9f4a4392ee8c9442fb9ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: engine
+    second: {fileID: 2100000, guid: 93fc32019278b124a9c0913b2a06152b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: a333e7bbb29d6fc4a896cdf3c349b09d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light
+    second: {fileID: 2100000, guid: 16a6260dbdd8b2e47bdc8d38089d3804, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orangeSteel
+    second: {fileID: 2100000, guid: 7fcd5b0e52a05fe40a85eaf6ce5b3cb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire
+    second: {fileID: 2100000, guid: ba014b45bd843ac4a8996f43fbb483bb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

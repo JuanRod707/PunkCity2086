@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 1f859fed554edf94ab1ae12258fe6042
+timeCreated: 1508939927
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: engine_high_7
+    100002: engine_high_8
+    100004: hood_default_0
+    100006: //RootNode
+    100008: trunk_default_2
+    100010: trunk_sports%_3
+    100012: trunk_sports%_4
+    100014: windshield_default_1
+    100016: wing_endHigh_5
+    100018: wing_endHigh_6
+    400000: engine_high_7
+    400002: engine_high_8
+    400004: hood_default_0
+    400006: //RootNode
+    400008: trunk_default_2
+    400010: trunk_sports%_3
+    400012: trunk_sports%_4
+    400014: windshield_default_1
+    400016: wing_endHigh_5
+    400018: wing_endHigh_6
+    2300000: engine_high_7
+    2300002: engine_high_8
+    2300004: hood_default_0
+    2300006: trunk_default_2
+    2300008: trunk_sports%_3
+    2300010: trunk_sports%_4
+    2300012: windshield_default_1
+    2300014: wing_endHigh_5
+    2300016: wing_endHigh_6
+    3300000: engine_high_7
+    3300002: engine_high_8
+    3300004: hood_default_0
+    3300006: trunk_default_2
+    3300008: trunk_sports%_3
+    3300010: trunk_sports%_4
+    3300012: windshield_default_1
+    3300014: wing_endHigh_5
+    3300016: wing_endHigh_6
+    4300000: hood_default_0
+    4300002: windshield_default_1
+    4300004: trunk_default_2
+    4300006: trunk_sports%_3
+    4300008: trunk_sports%_4
+    4300010: wing_endHigh_5
+    4300012: wing_endHigh_6
+    4300014: engine_high_7
+    4300016: engine_high_8
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 3c3283a768462174b83d6da0dc8d8ee5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 8fb4bd49fce7ae4429bf098739a128d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blueSteel
+    second: {fileID: 2100000, guid: ee61bad42324a4f40a73d1552e1ef661, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: engine
+    second: {fileID: 2100000, guid: 93fc32019278b124a9c0913b2a06152b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: a333e7bbb29d6fc4a896cdf3c349b09d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light
+    second: {fileID: 2100000, guid: 16a6260dbdd8b2e47bdc8d38089d3804, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orangeSteel
+    second: {fileID: 2100000, guid: 7fcd5b0e52a05fe40a85eaf6ce5b3cb2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
